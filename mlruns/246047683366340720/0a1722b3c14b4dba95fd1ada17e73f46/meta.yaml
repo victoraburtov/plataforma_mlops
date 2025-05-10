@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/246047683366340720/0a1722b3c14b4dba95fd1ada17e73f46/artifacts
+end_time: 1746907842021
+entry_point_name: ''
+experiment_id: '246047683366340720'
+lifecycle_stage: active
+run_id: 0a1722b3c14b4dba95fd1ada17e73f46
+run_name: Neural Net - config 3
+run_uuid: 0a1722b3c14b4dba95fd1ada17e73f46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746907837654
+status: 3
+tags: []
+user_id: v0a02bg
