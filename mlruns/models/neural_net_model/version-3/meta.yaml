@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746907841819
+current_stage: None
+description: ''
+last_updated_timestamp: 1746907841819
+name: neural_net_model
+run_id: 0a1722b3c14b4dba95fd1ada17e73f46
+run_link: ''
+source: mlflow-artifacts:/246047683366340720/0a1722b3c14b4dba95fd1ada17e73f46/artifacts/neural_net_model_config_3
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/246047683366340720/0a1722b3c14b4dba95fd1ada17e73f46/artifacts/neural_net_model_config_3
+user_id: null
+version: 3

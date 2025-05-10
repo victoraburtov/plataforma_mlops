@@ -1,0 +1,43 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de bases de datos
+*.sqlite3
+*.db
+
+# Configuración local de VSCode
+.vscode/
+
+# Archivos de entorno y credenciales
+.env
+*.env
+secrets.json
+credentials.json
+
+# Salidas de pruebas o ejecución
+output/
+inference_files/
+*.pkl
+*.h5
+*.csv
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

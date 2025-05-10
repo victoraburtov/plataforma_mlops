@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/175058305708563446/95a56de7c7b04300b7fc91147a6e4812/artifacts
+end_time: 1746906949978
+entry_point_name: ''
+experiment_id: '175058305708563446'
+lifecycle_stage: active
+run_id: 95a56de7c7b04300b7fc91147a6e4812
+run_name: suave-dog-603
+run_uuid: 95a56de7c7b04300b7fc91147a6e4812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746906945096
+status: 3
+tags: []
+user_id: v0a02bg

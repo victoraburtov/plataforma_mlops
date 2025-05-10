@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746907853501
+current_stage: None
+description: ''
+last_updated_timestamp: 1746907853501
+name: svm_model
+run_id: 62b6b910a6734d00a08efd91da0c10b6
+run_link: ''
+source: mlflow-artifacts:/246047683366340720/62b6b910a6734d00a08efd91da0c10b6/artifacts/svm_model_config_3
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/246047683366340720/62b6b910a6734d00a08efd91da0c10b6/artifacts/svm_model_config_3
+user_id: null
+version: 3
